@@ -1,0 +1,4 @@
+test-suite  basic
+    type: exitcode-stdio-1.0
+    main-is: tests/basic-test.hs
+    build-depends:   base >=4.6 && <4.7
